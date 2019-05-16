@@ -66,10 +66,13 @@ Read [this comprehensive blog post from Happy Bear Software](https://www.happybe
 I want you to know that this will not be easy.
 
 There are plenty of other online curriculums for beginners, but they are often taught in an extremely isolated and controlled environment and cover only a specific topic.
+网上有很多针对初学者的课程，但是基本上都只是涉及一个孤立的板块。
 
 The Odin Project takes a realistic view of what you need to know and has you set up and work in your own environment, much like what you'll be doing when you get a job.
+这个项目旨在让你清晰的认识到如何在现实环境中获得一个工作机会。
 
 It acknowledges that you need a wide variety of skillsets and languages to reach an employable level.
+它会让你了解一系列的技能和语言已达到被雇佣的水平。
 
 The Odin Project is constantly evolving because of people like you who get further along in the curriculum and pay it forward by incrementally improving our content over time.
 
@@ -79,7 +82,7 @@ Hopefully, you've gained a better idea of what a web developer actually does and
 
 In this course, "Web Development 101," you'll take a journey through the entire spectrum of topics that you will eventually need to know. This course jumps around to a variety of topics that you may be totally unfamiliar with, providing you a small taste of each and then moving on.
 
-The following courses will dive deep into these topics. You will build dozens of scripts, projects, and websites to cement those skills that will get you hired.
+The following courses will——. You will build dozens of scripts, projects, and websites to cement those skills that will get you hired.
 
 Getting all the way there is going to be challenging. In fact, you should check out the post ["Why Learning to Code is **So Damn Hard**"](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) so you have a good idea of what the journey ahead is like. But what worthwhile thing is truly easy?
 
